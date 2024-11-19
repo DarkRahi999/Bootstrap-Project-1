@@ -206,6 +206,17 @@ header{
 .About-line{
   border-bottom: 5px dotted black;
 }
+/* article section  */
+.rating tr td{
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+.rating i{
+  color: var(--yellow);
+}
+.my-btn{
+  width: 150px;
+}
 /*todo--------------{  Start Footer Section Style  }---------------_*/
 
 
